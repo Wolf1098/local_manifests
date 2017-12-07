@@ -5,4 +5,4 @@
   <project name="LineageOS/android_kernel_huawei_msm8928" path="kernel/huawei/msm8928"/>
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat"/>
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common"/>
-<manifest>
+</manifest>
